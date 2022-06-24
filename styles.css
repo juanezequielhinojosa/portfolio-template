@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
-
+/*@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fascinate&family=Rubik+Moonrocks&family=Shadows+Into+Light&family=Smooch&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fascinate&family=League+Gothic&family=Rubik+Moonrocks&family=Shadows+Into+Light&family=Smooch&display=swap');
 
 :root {
   --primary-color: #d31c04;
@@ -14,7 +15,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Fascinate', cursive;
+  font-family:  'League Gothic', sans-serif;
 }
 
 .navbar {
@@ -48,7 +49,7 @@ body {
   padding: 20px;
   text-decoration: none;
   color: var(--accent-color);
-  font-size: 18px;
+  font-size: 20px;
   letter-spacing: 2px;
   transition: all 1s;
 }
@@ -59,7 +60,7 @@ body {
   float: left;
   margin: 16px 36px;
   color: var(--accent-color);
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
 }
 
@@ -94,6 +95,7 @@ body {
 
 .avatar-container h3 {
   margin: 0;
+  font-size: 50px;
 }
 
 h1 {
@@ -125,6 +127,7 @@ h1 {
   justify-content: center;
   color: var(--accent-color);
   letter-spacing: 1px;
+  font-size: 30px;
 }
 
 .title-section {
@@ -134,7 +137,7 @@ h1 {
   color: var(--primary-color-dark);
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 .project-list {
