@@ -147,6 +147,12 @@ h1 {
 .project-list li {
   margin-bottom: 30px;
 }
+.project-list li a{
+  display: block;
+  text-transform: uppercase;
+  font-family: 'League Gothic';
+  font-size:25px;
+}
 
 .project-link {
   text-decoration: none;
