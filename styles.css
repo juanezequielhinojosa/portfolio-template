@@ -226,7 +226,7 @@ footer {
 }
 
 .tech-icons-container {
-  background-color: rgba(255, 255, 255, 0.801);
+  background-color: #FFF8F0;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
